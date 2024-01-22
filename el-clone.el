@@ -5,7 +5,7 @@
 ;; Author: Takeo Obara <bararararatty@gmail.com>
 ;; Version: 1.0.0
 ;; Keywords: package-manager
-;; Package-Requires: ((emacs "29.0"))
+;; Package-Requires: ((emacs "26.0"))
 ;; URL: https://github.com/takeokunn/el-clone
 
 ;; This program is free software: you can redistribute it and/or modify
